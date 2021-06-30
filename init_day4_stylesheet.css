@@ -3,12 +3,13 @@
     color: black;
     display:flex;
     flex-direction: row;
-    justify-content: center;
+    align-content: flex-start;
     border-radius: 20px;
     padding: 5px, 45vw, 5px, 45vw;
     border-style: solid;
     border-color: darkgrey;
     border-width: 1px;
+    height: 10vh;
 
 }
 
@@ -19,6 +20,11 @@
     border-radius: 10px;
     padding: 5px;
     transition: background 0.25s ease-in;
+    width: 10vw;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin: 7px;
 
 }
 
