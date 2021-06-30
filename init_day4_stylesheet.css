@@ -67,13 +67,14 @@
     padding-left: 5vw;
     margin-top: 30px;
     width: 10vw;
-    transition: background 0.5s ease-in-out;
+    transition: background 0.75s ease-in-out;
 /* transition: what-you-want-to-change time-for-transition type-of-transition delay */
 }
 
 .destination:hover {
     background: pink;
     color: white;
+    transform: translateY(-5%)
 }
 
 .explore {
