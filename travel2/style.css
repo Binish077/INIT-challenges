@@ -23,8 +23,8 @@
   header {
     display: flex;
     justify-content: space-between;
-    color: #ffce14;
-    background: #0f2453;
+    color: black
+    background: black;
   }
   header div {
     display: flex;
@@ -55,7 +55,7 @@
     transition: all 250ms ease-in;
   }
   nav li a:hover {
-    background: #ffce14;
+    background:black;
     color: black;
   }
   /*-------------TOP SECTION-------------*/
@@ -70,7 +70,7 @@
     font-size: 5rem;
     margin-bottom: 0;
     text-shadow: 1px 1px 0 black;
-    color: #ffce14;
+    color: grey;
   }
   .titles p {
     letter-spacing: 3px;
@@ -86,7 +86,7 @@
     max-width: 80vw;
   }
   .box {
-    background: #ffce14;
+    background: grey;
     margin: 1rem;
     padding: 0.5rem;
     display: flex;
@@ -98,7 +98,7 @@
     transition: all 250ms ease-out;
   }
   .box:hover {
-    background: rgba(255, 255, 255, 0.7);
+    background:grey;
     transform: translateY(-20%);
   }
   .box a {
