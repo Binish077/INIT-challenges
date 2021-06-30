@@ -1,0 +1,18 @@
+#navigation-bar {
+    background: white;
+    color: black;
+    display:flex;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 10px, 45vw, 10px, 45vw;
+    box-shadow: 5px;
+    border-color: darkgrey;
+    border-width: 5px;
+
+}
+
+.navigation-item {
+    border: black;
+    padding: 5px;
+
+}
