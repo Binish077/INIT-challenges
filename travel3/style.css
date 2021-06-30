@@ -1,0 +1,21 @@
+body{
+    background: black;;
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+}
+
+h2{
+    text-align: justify;
+    background:grey;
+}
+
+ol{
+    background-color: grey;
+}
+
+footer{
+    background-color:white;
+}
